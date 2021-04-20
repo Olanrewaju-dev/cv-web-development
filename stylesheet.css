@@ -1,0 +1,116 @@
+/******TAG SELECTOR***********/
+body {
+    background-color: #EAF6F6;
+    text-align: center;
+    font-family: 'RobotoSlab', serif;
+    font-weight: bold;
+  }
+  
+  h1 {
+    margin-top: 50px auto 0;
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625em;
+  }
+  
+  h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+  }
+  
+  h3 {
+    color: #11999E;
+  }
+  
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 4%;
+    margin: 100px auto;
+  }
+  
+  a {
+    margin: 20px 30px;
+    text-decoration: none;
+  }
+  
+  /**********CLASS SELECTOR***********/
+  .full-stack {
+    font-size: 20px;
+    color: #66BFBF;
+  }
+  
+  .profile-image {
+    margin-top: 50px;
+    width: 20px;
+    height: 20px;
+  }
+  
+  
+  /*******CONTAINERS*********/
+  
+  
+  .top-container {
+    background-color: #bbe1fa;
+    position: relative;
+    padding-top: 50px;
+  }
+  
+  .middle-container {
+    margin-top: 50px;
+  }
+  
+  .bottom-container {
+    background-color: #66BFBF;
+    height: 80px;
+    padding: 50px 0 50px;
+  }
+  
+  .Get-in-touch {
+    margin-bottom: 50px;
+  }
+  
+  .footer-link:hover {
+    color: red;
+  }
+  
+  /*********CONTAINERS***********/
+  
+  .top-cloud {
+    position: absolute;
+    right: 300px;
+  }
+  
+  .bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+  }
+  
+  .skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+  }
+  
+  .computer-icon {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+  }
+  
+  .social-icon {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+  }
+  
+  .copyright {
+    color: #EAF6F6;
+    padding-top: 50px;
+  }
+  
